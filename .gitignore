@@ -1,0 +1,9 @@
+*.pdf
+*.png
+*.svg
+*.txt
+bdt_plots/**
+data/**
+models/**
+plots/**
+test_gpu.py
